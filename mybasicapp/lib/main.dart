@@ -39,8 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Padding(
           padding: EdgeInsets.all(10.0),
           child:  Column(children: [
-            MyBox(),SizedBox(height: 10,),
-            MyBox()
+            MyBox(),SizedBox(height: 10,)
           ],)
         ));
   }
