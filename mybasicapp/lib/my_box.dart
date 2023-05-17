@@ -1,7 +1,6 @@
 // ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors, prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-
 import 'countIcon.dart';
 
 //สร้าง container ต้นแบบ
@@ -77,7 +76,7 @@ class MyBox extends StatelessWidget {
             ),
           ),
         ),
-        Row()
+        
         // Padding(
         //   padding: EdgeInsets.fromLTRB(40, 114, 40, 0),
         //   child: Container(
