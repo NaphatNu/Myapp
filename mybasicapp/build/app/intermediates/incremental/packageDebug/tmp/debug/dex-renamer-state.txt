@@ -1,4 +1,4 @@
-#Wed May 17 21:58:09 ICT 2023
-base.0=C\:\\Tonkla\\BasicApp\\Myapp\\mybasicapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Thu May 18 01:57:44 ICT 2023
+base.0=C\:\\Users\\USER\\Documents\\GitHub\\Myapp\\mybasicapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
